@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubyforge_project = "mime-types"
   s.rubygems_version = "1.8.25"
-  s.signing_key = "/Users/AZiegler/.gem/gem-private_key.pem"
   s.summary = "This library allows for the identification of a file's likely MIME content type"
   s.test_files = ["test/test_mime_type.rb", "test/test_mime_types.rb"]
 
