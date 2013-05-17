@@ -119,7 +119,7 @@ application/moss-signature 'IANA,RFC1848
 application/mosskey-data 'IANA,RFC1848
 application/mosskey-request 'IANA,RFC1848
 application/mp21 'IANA,RFC6381,[Singer]
-application/mp4 @mp4,mpg4 'IANA,RFC4337,RFC6381
+video/mp4 @mp4,mpg4 'IANA,RFC4337,RFC6381
 application/mpeg4-generic 'IANA,RFC3640
 application/mpeg4-iod 'IANA,RFC4337
 application/mpeg4-iod-xmt 'IANA,RFC4337
